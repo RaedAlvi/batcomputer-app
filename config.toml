@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#FFC700"       # Batman yellow/gold
+backgroundColor = "#1A1A2E"    # Dark blue/black (Batcave-like)
+secondaryBackgroundColor = "black"  # Slightly lighter dark blue
+textColor = "#F0F0F0"          # Light text for contrast
+font = "sans serif"
