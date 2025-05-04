@@ -1,5 +1,5 @@
 # batcomputer-app
-# Project Name
+# Project Name: ML financial analysis
 
 ## Course Information
 - **Course Name:** [Machine Learning
