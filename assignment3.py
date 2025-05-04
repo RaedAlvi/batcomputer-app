@@ -137,7 +137,7 @@ def main():
     This Supercomputer allows you to analyze and predict stock prices with the power of machine learning, 
     just like Gotham's very own tech mastermind - **Batman**. 
     """)
-    st.image(r"C:\Users\raeda\Downloads\Python\lockIn\pff\batman.gif", width=300)
+    st.image("https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRiemVxN2xvdzI4NzVpMDM0bXVwZTFpbHRndjJicDQ4aGQ2czNuNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aDdcQx11g5eSG9q/giphy.gif", width=300)
 
     # ─── Upload Dataset ─────────────────────────────────────────────────
     uploaded_file = st.file_uploader("Upload CSV Dataset:", type=["csv"])
